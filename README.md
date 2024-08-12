@@ -45,5 +45,5 @@ A simple news website that allows users to view current news and search for spec
 - Click on a news card to read the full article on the news source's website.
 
 
-## Demo video of news website
+## Outcome
 https://github.com/deepjasani17/news-website/assets/130975061/61ce9e50-5dc9-4014-8706-9457fd371b90
